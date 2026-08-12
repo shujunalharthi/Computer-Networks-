@@ -73,7 +73,3 @@ exit
 ip route 172.16.10.0 255.255.255.0 10.10.10.1
 ip route 172.16.20.0 255.255.255.0 10.10.10.1
 ```
-
-## Reflection
-
-In this phase, I learned how to configure a WAN serial connection between two routers and how to configure static routes. I also learned how routing allows different LAN networks to communicate with each other and how to verify and document the network configuration using screenshots.
